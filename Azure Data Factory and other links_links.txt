@@ -1,0 +1,94 @@
+Azure links:
+
+Azure datafactory links with multiple parts:
+
+https://youtu.be/ZgYotyUrnxs?si=_2V27yywxwABmbAe
+https://www.youtube.com/watch?v=oprC6TdC5uo
+https://www.youtube.com/watch?v=g8n_iuORg2c
+https://www.youtube.com/watch?v=31qr8zY2Ml8
+https://www.youtube.com/watch?v=1EspKWF4LzM
+https://www.youtube.com/watch?v=m7jD__3LObA
+
+https://www.youtube.com/watch?v=Ja0Xz23TUiQ
+https://www.youtube.com/watch?v=8rjRzhTqSP4
+https://www.youtube.com/watch?v=ed4-hcHaVbo
+https://www.youtube.com/watch?v=EKEj8BH0sEI
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Azure SQL DB videos:
+https://youtu.be/BgvEOkcR0Wk?si=ImVMvnHjLRyVIFas
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Azure cosmos DB
+https://youtu.be/R_Fi59j6BMo?si=Ibx_yB7sqyawv3n_
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Azure Virtual Machine
+https://youtu.be/iUaTq06m26g?si=gmB6gSFGvpjAf3tz
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Azure Active Directory: 
+https://youtu.be/Ma7VAQE7ga4?si=qDIYOYPC4RQFf2oq
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Azure Networking: 
+https://www.youtube.com/watch?v=5NMcM4zJPM4
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Azure Storage:
+
+https://www.youtube.com/watch?v=_Qlkvd4ZQuo
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Azure Network Security group
+https://www.youtube.com/watch?v=w8H5fWBHddA
+
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Azure Geographies, Regions, Availability Centers
+https://www.youtube.com/watch?v=C-nNw1mGwzE
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Azure Cost Management
+https://www.youtube.com/watch?v=7w88KBVesPI
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Azure Cost Affecting features:
+
+https://www.youtube.com/watch?v=Z8wvj_oe97M
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Azure Big Data and Synapse Analytics
+https://www.youtube.com/watch?v=JUQXx0R0RfE&t=212s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
