@@ -69,16 +69,6 @@ Azure Cost Management
 https://www.youtube.com/watch?v=7w88KBVesPI
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Azure Cost Affecting features:
-
-https://www.youtube.com/watch?v=Z8wvj_oe97M
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Azure Big Data and Synapse Analytics
-https://www.youtube.com/watch?v=JUQXx0R0RfE&t=212s
-
 
 
 
